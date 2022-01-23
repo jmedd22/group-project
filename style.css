@@ -41,8 +41,18 @@ main h2 {
     background:rgb(92, 149, 235);
 }
 
-,my-style {
-    color: purple
-    background-color: black
+.my-style {
+    color: purple;
+    background-color: black;
     padding: 3px;
 }
+
+
+
+
+.my-style2 {
+    color: greenyellow;
+    background-color: black;
+    padding: 4px;
+}
+
